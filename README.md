@@ -2,23 +2,17 @@
   <img src="./banner-rodrigues2.png" alt="Banner Rafaela" width="100%">
 </p>
 
-Olá! 👋 Eu sou Rafaela Rodrigues.
+👋 Olá! Eu sou Rafaela Rodrigues
 
-Analista de TI apaixonada por tecnologia,
-desenvolvimento web e automação.
+💻 Analista de TI
+🚀 Desenvolvedora Web
+⚡ Fundadora da Rodrigues Digital
 
-Fundadora da Rodrigues Digital.
+Atualmente trabalho com:
 
-🚀 Atualmente trabalho com:
 • Landing Pages
 • React
 • HTML/CSS
 • JavaScript
 • Automação
 • SEO
-
-📂 Projetos em destaque:
-• Landing Page Marcela Braga
-• Portfólio Pessoal
-• Kits de Mídia
-• Novos projetos em desenvolvimento
