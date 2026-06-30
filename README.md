@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-rodrigues.png" alt="Banner Rafaela" width="100%">
+  <img src="./banner-rodrigues2.png" alt="Banner Rafaela" width="100%">
 </p>
 
 Olá! 👋 Eu sou Rafaela Rodrigues.
