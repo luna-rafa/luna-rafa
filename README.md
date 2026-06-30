@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner-github.png" width="100%" alt="Banner Rafaela">
+</p>
+
 Olá! 👋 Eu sou Rafaela Rodrigues.
 
 Analista de TI apaixonada por tecnologia,
