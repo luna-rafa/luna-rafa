@@ -1,18 +1,20 @@
-Olá, eu sou Rafaela Rodrigues 👋
-Analista de TI apaixonada por tecnologia, desenvolvimento web e automação.
-Fundadora da Rodrigues Digital
+Olá! 👋 Eu sou Rafaela Rodrigues.
 
-Atualmente trabalho com:
+Analista de TI apaixonada por tecnologia,
+desenvolvimento web e automação.
 
-💻 Landing Pages
-⚛️ React
-🎨 HTML / CSS
-☕ JavaScript
-🤖 Automação
-🌎 SEO
+Fundadora da Rodrigues Digital.
 
-Projetos
-Landing Page Marcela Braga
-Rodrigues Digital
-Mídia Kits
-Projetos futuros
+🚀 Atualmente trabalho com:
+• Landing Pages
+• React
+• HTML/CSS
+• JavaScript
+• Automação
+• SEO
+
+📂 Projetos em destaque:
+• Landing Page Marcela Braga
+• Portfólio Pessoal
+• Kits de Mídia
+• Novos projetos em desenvolvimento
